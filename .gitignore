@@ -1,0 +1,14 @@
+# Environments
+.venv/
+env/
+
+# Secrets
+.env
+
+# Database and Data Exports
+chroma_data/
+memory_export.txt
+
+# Python cache
+__pycache__/
+*.pyc
